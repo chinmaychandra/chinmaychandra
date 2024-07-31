@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chinmaychandra.
-- 👀 I’m interested in programming and web-development.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning DSA with C++.
 - 📫 How to reach me : chinmayc.ug23.cs@nitp.ac.in
 
